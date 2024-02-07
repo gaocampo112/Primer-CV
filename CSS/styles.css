@@ -6,8 +6,9 @@ html{
 
 .principal{
     margin-bottom: 10px;
-    border: 4px solid black;
-    background-color: rgb(248, 192, 129);
+    border: 4px solid rgb(155, 155, 155);
+    background-color: rgb(2, 0, 63);
+    color: rgb(225, 225, 225);
     text-align: center;
     padding: 5px;
 }
@@ -20,23 +21,26 @@ html{
 .acerca-de-mi{
    
     margin-bottom: 10px;
-    border: 4px solid black;
-    background-color: rgb(240, 254, 131);
+    border: 4px solid rgb(155, 155, 155);
+    background-color: rgb(2, 0, 63);
+    color: rgb(225, 225, 225);
     padding: 10px;
     text-align: center;
 }
 
 .hobbies{
     margin-bottom: 10px;
-    border: 4px solid black;
-    background-color: rgba(141, 251, 152, 0.364);
+    border: 4px solid rgb(155, 155, 155);
+    background-color: rgb(2, 0, 63);
+    color: rgb(225, 225, 225);
     padding: 10px;
 }
 
 .contacto{
     margin-bottom: 10px;
-    border: 4px solid black;
-    background-color: rgba(141, 216, 251, 0.364);
+    border: 4px solid rgb(155, 155, 155);
+    background-color: rgb(2, 0, 63);
+    color: rgb(225, 225, 225);
     padding: 10px;
     padding-bottom: 30px;
     a{
@@ -53,8 +57,9 @@ html{
 
 .habilidades{
     margin-bottom: 10px;
-    border: 4px solid black;
-    background-color: rgba(200, 141, 251, 0.33);
+    border: 4px solid rgb(155, 155, 155);
+    background-color: rgb(2, 0, 63);
+    color: rgb(225, 225, 225);
     padding: 10px;
 
 }
@@ -71,4 +76,5 @@ html{
     width: 80px;
     border: 2px solid black;
     font-style: italic;
+    color: black;
 }
